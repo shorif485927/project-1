@@ -290,6 +290,7 @@ a{
           background-color: #0b0b0b;
           border: none;
           border-bottom: 1px solid #fff;
+           outline:none;
           padding: 0px 0 10px 0;
          }
          #contact  .lg-input input{
